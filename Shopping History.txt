@@ -1,0 +1,316 @@
+Shopping History
+
+Date,Category,Item,Quantity,Price per unit (₱),Total Price (₱)
+
+2025-12-01,Fruits,Bananas (1 kg),2,₱70.00,₱140.00
+2025-12-01,Meat & Poultry,Chicken breast (1 kg),1,₱320.00,₱320.00
+2025-12-01,Vegetables,Tomatoes (1 kg),3,₱120.00,₱360.00
+2025-12-01,Dairy & Eggs,Eggs (12 pcs),1,₱120.00,₱120.00
+2025-12-01,Pantry & Condiments,Cooking oil (1 L),1,₱165.00,₱165.00
+2025-12-01,Snacks & Beverages,Coffee (100 g),1,₱120.00,₱120.00
+2025-12-01,Rice, Grains & Bread,Rice (1 kg),2,₱55.00,₱110.00
+2025-12-01,Seafood,Bangus / Milkfish (1 kg),1,₱260.00,₱260.00
+2025-12-01,Vegetables,Carrots (1 kg),1,₱110.00,₱110.00
+2025-12-01,Household Essentials,Dishwashing liquid,1,₱95.00,₱95.00
+2025-12-01,Fruits,Apples (1 kg),1,₱220.00,₱220.00
+2025-12-01,Meat & Poultry,Pork belly (1 kg),1,₱420.00,₱420.00
+
+2025-12-02,Fruits,Mangoes (1 kg),1,₱200.00,₱200.00
+2025-12-02,Vegetables,Onion (1 kg),2,₱160.00,₱320.00
+2025-12-02,Pantry & Condiments,Soy sauce,1,₱45.00,₱45.00
+2025-12-02,Snacks & Beverages,Biscuits,3,₱45.00,₱135.00
+2025-12-02,Rice, Grains & Bread,Bread loaf,1,₱65.00,₱65.00
+2025-12-02,Seafood,Shrimp (1 kg),1,₱520.00,₱520.00
+2025-12-02,Household Essentials,Laundry detergent,1,₱180.00,₱180.00
+2025-12-02,Meat & Poultry,Ground pork (1 kg),1,₱350.00,₱350.00
+2025-12-02,Vegetables,Bell pepper,2,₱180.00,₱360.00
+2025-12-02,Dairy & Eggs,Cheese slices,1,₱110.00,₱110.00
+2025-12-02,Snacks & Beverages,Soft drinks (1.5 L),2,₱75.00,₱150.00
+
+2025-12-03,Rice, Grains & Bread,Pandesal (10 pcs),2,₱40.00,₱80.00
+2025-12-03,Pantry & Condiments,Ketchup,1,₱85.00,₱85.00
+2025-12-03,Fruits,Oranges (1 kg),1,₱180.00,₱180.00
+2025-12-03,Seafood,Tilapia (1 kg),1,₱220.00,₱220.00
+2025-12-03,Household Essentials,Toilet paper,1,₱140.00,₱140.00
+2025-12-03,Vegetables,Eggplant,1,₱90.00,₱90.00
+2025-12-03,Meat & Poultry,Chicken whole (1 kg),1,₱210.00,₱210.00
+2025-12-03,Fruits,Papaya,2,₱90.00,₱180.00
+2025-12-03,Dairy & Eggs,Margarine,1,₱90.00,₱90.00
+2025-12-03,Snacks & Beverages,Chocolate bar,3,₱55.00,₱165.00
+2025-12-03,Rice, Grains & Bread,Oats (500 g),1,₱120.00,₱120.00
+2025-12-03,Pantry & Condiments,Vinegar,1,₱35.00,₱35.00
+2025-12-03,Household Essentials,Hand soap,2,₱65.00,₱130.00
+
+2025-12-04,Fruits,Lemons,2,₱140.00,₱280.00
+2025-12-04,Meat & Poultry,Sausage (500 g),1,₱200.00,₱200.00
+2025-12-04,Vegetables,Okra,3,₱80.00,₱240.00
+2025-12-04,Seafood,Dried fish (tuyo),1,₱180.00,₱180.00
+2025-12-04,Dairy & Eggs,Yogurt,2,₱120.00,₱240.00
+2025-12-04,Pantry & Condiments,Fish sauce,1,₱40.00,₱40.00
+2025-12-04,Snacks & Beverages,Chips,2,₱65.00,₱130.00
+2025-12-04,Rice, Grains & Bread,Flour (1 kg),1,₱55.00,₱55.00
+2025-12-04,Household Essentials,Shampoo,1,₱170.00,₱170.00
+2025-12-04,Fruits,Grapes (500 g),1,₱190.00,₱190.00
+
+2025-12-05,Meat & Poultry,Bacon (250 g),1,₱180.00,₱180.00
+2025-12-05,Fruits,Watermelon,1,₱160.00,₱160.00
+2025-12-05,Vegetables,Cabbage,1,₱85.00,₱85.00
+2025-12-05,Dairy & Eggs,Eggs (12 pcs),2,₱120.00,₱240.00
+2025-12-05,Pantry & Condiments,Sugar (1 kg),1,₱75.00,₱75.00
+2025-12-05,Snacks & Beverages,Ice cream (1 L),1,₱220.00,₱220.00
+2025-12-05,Rice, Grains & Bread,Macaroni,1,₱70.00,₱70.00
+2025-12-05,Seafood,Canned tuna,3,₱45.00,₱135.00
+2025-12-05,Household Essentials,Trash bags,2,₱85.00,₱170.00
+
+2025-12-06,Meat & Poultry,Hotdogs (500 g),2,₱150.00,₱300.00
+2025-12-06,Fruits,Pineapple,1,₱130.00,₱130.00
+2025-12-06,Vegetables,Potatoes (1 kg),3,₱90.00,₱270.00
+2025-12-06,Dairy & Eggs,Butter,1,₱160.00,₱160.00
+2025-12-06,Pantry & Condiments,Oyster sauce,1,₱65.00,₱65.00
+2025-12-06,Snacks & Beverages,Tea bags,1,₱85.00,₱85.00
+2025-12-06,Rice, Grains & Bread,Corn grits,2,₱60.00,₱120.00
+2025-12-06,Seafood,Fish fillet (500 g),1,₱250.00,₱250.00
+
+2025-12-07,Fruits,Oranges (1 kg),2,₱180.00,₱360.00
+2025-12-07,Meat & Poultry,Pork chop (1 kg),1,₱380.00,₱380.00
+2025-12-07,Vegetables,Onions (1 kg),2,₱160.00,₱320.00
+2025-12-07,Dairy & Eggs,Cream,1,₱130.00,₱130.00
+2025-12-07,Pantry & Condiments,Chili sauce,1,₱90.00,₱90.00
+2025-12-07,Snacks & Beverages,Crackers,2,₱40.00,₱80.00
+
+2025-12-08,Meat & Poultry,Ground beef (1 kg),1,₱480.00,₱480.00
+2025-12-08,Fruits,Grapes (500 g),2,₱190.00,₱380.00
+2025-12-08,Vegetables,Eggplant,1,₱90.00,₱90.00
+2025-12-08,Dairy & Eggs,Cheddar cheese,1,₱180.00,₱180.00
+2025-12-08,Pantry & Condiments,Vinegar,1,₱35.00,₱35.00
+2025-12-08,Snacks & Beverages,Chocolate bar,2,₱55.00,₱110.00
+2025-12-08,Rice, Grains & Bread,Oats (500 g),1,₱120.00,₱120.00
+2025-12-08,Seafood,Canned sardines,4,₱30.00,₱120.00
+
+2025-12-09,Meat & Poultry,Sausage (500 g),1,₱200.00,₱200.00
+2025-12-09,Fruits,Watermelon,1,₱160.00,₱160.00
+2025-12-09,Vegetables,Potatoes (1 kg),1,₱90.00,₱90.00
+2025-12-09,Dairy & Eggs,Yogurt,1,₱120.00,₱120.00
+2025-12-09,Pantry & Condiments,Sugar (1 kg),2,₱75.00,₱150.00
+2025-12-09,Snacks & Beverages,Ice cream (1 L),1,₱220.00,₱220.00
+2025-12-09,Rice, Grains & Bread,Macaroni,1,₱70.00,₱70.00
+2025-12-09,Seafood,Dried fish (tuyo),1,₱180.00,₱180.00
+
+2025-12-10,Fruits,Strawberries (500 g),1,₱250.00,₱250.00
+2025-12-10,Meat & Poultry,Turkey slices (500 g),1,₱400.00,₱400.00
+2025-12-10,Vegetables,Zucchini (1 kg),2,₱150.00,₱300.00
+2025-12-10,Dairy & Eggs,Parmesan cheese,1,₱220.00,₱220.00
+2025-12-10,Pantry & Condiments,Mustard,1,₱60.00,₱60.00
+2025-12-10,Snacks & Beverages,Popcorn,3,₱50.00,₱150.00
+2025-12-10,Rice, Grains & Bread,Baguette,1,₱80.00,₱80.00
+2025-12-10,Seafood,Crab (1 kg),1,₱650.00,₱650.00
+2025-12-10,Household Essentials,Surface cleaner,1,₱130.00,₱130.00
+
+2025-12-11,Fruits,Kiwifruit (1 kg),2,₱210.00,₱420.00
+2025-12-11,Meat & Poultry,Liver (1 kg),1,₱180.00,₱180.00
+2025-12-11,Vegetables,Cucumber (1 kg),2,₱110.00,₱220.00
+2025-12-11,Dairy & Eggs,Sour cream,1,₱140.00,₱140.00
+2025-12-11,Pantry & Condiments,Honey,1,₱220.00,₱220.00
+2025-12-11,Snacks & Beverages,Nuts (200 g),1,₱350.00,₱350.00
+2025-12-11,Rice, Grains & Bread,Cornbread,1,₱75.00,₱75.00
+2025-12-11,Seafood,Oysters (500 g),1,₱300.00,₱300.00
+2025-12-11,Household Essentials,Floor cleaner,1,₱140.00,₱140.00
+2025-12-11,Vegetables,Green beans (1 kg),1,₱150.00,₱150.00
+
+2025-12-12,Fruits,Pear (1 kg),1,₱190.00,₱190.00
+2025-12-12,Meat & Poultry,Ribeye steak (1 kg),1,₱850.00,₱850.00
+2025-12-12,Vegetables,Spinach (1 kg),2,₱130.00,₱260.00
+2025-12-12,Dairy & Eggs,Whipped cream,1,₱150.00,₱150.00
+2025-12-12,Pantry & Condiments,Maple syrup,1,₱400.00,₱400.00
+2025-12-12,Snacks & Beverages,Granola bars,3,₱55.00,₱165.00
+2025-12-12,Rice, Grains & Bread,Multigrain bread,1,₱90.00,₱90.00
+2025-12-12,Seafood,Lobster (1 kg),1,₱900.00,₱900.00
+2025-12-12,Household Essentials,Air freshener,2,₱75.00,₱150.00
+
+2025-12-13,Fruits,Cherries (500 g),1,₱270.00,₱270.00
+2025-12-13,Meat & Poultry,Chicken wings (1 kg),2,₱320.00,₱640.00
+2025-12-13,Vegetables,Brussels sprouts (1 kg),1,₱160.00,₱160.00
+2025-12-13,Dairy & Eggs,Milk (1 L),3,₱95.00,₱285.00
+2025-12-13,Pantry & Condiments,Pesto sauce,1,₱200.00,₱200.00
+2025-12-13,Snacks & Beverages,Yogurt drink,2,₱65.00,₱130.00
+2025-12-13,Rice, Grains & Bread,White bread loaf,1,₱65.00,₱65.00
+2025-12-13,Seafood,Clams (1 kg),1,₱400.00,₱400.00
+2025-12-13,Household Essentials,Glass cleaner,1,₱120.00,₱120.00
+
+2025-12-14,Fruits,Blueberries (500 g),1,₱260.00,₱260.00
+2025-12-14,Meat & Poultry,Pork ribs (1 kg),1,₱420.00,₱420.00
+2025-12-14,Vegetables,Cauliflower (1 kg),1,₱140.00,₱140.00
+2025-12-14,Dairy & Eggs,Butter (500 g),1,₱160.00,₱160.00
+2025-12-14,Pantry & Condiments,Peanut butter,1,₱180.00,₱180.00
+2025-12-14,Snacks & Beverages,Trail mix,1,₱200.00,₱200.00
+2025-12-14,Rice, Grains & Bread,Corn tortillas,1,₱85.00,₱85.00
+2025-12-14,Seafood,Calamari (1 kg),1,₱450.00,₱450.00
+2025-12-14,Household Essentials,Laundry softener,1,₱130.00,₱130.00
+2025-12-14,Vegetables,Asparagus (500 g),1,₱200.00,₱200.00
+
+2025-12-15,Fruits,Raspberries (500 g),1,₱280.00,₱280.00
+2025-12-15,Meat & Poultry,Turkey breast (1 kg),1,₱700.00,₱700.00
+2025-12-15,Vegetables,Sweet potatoes (1 kg),2,₱100.00,₱200.00
+2025-12-15,Dairy & Eggs,Greek yogurt,2,₱130.00,₱260.00
+2025-12-15,Pantry & Condiments,Chocolate syrup,1,₱150.00,₱150.00
+2025-12-15,Snacks & Beverages,Nuts mix,1,₱350.00,₱350.00
+2025-12-15,Frozen & Ready-to-Eat,Frozen Pizza,1,₱350.00,₱350.00
+2025-12-15,Rice, Grains & Bread,Brown rice (1 kg),1,₱60.00,₱60.00
+2025-12-15,Seafood,Scallops (500 g),1,₱500.00,₱500.00
+2025-12-15,Household Essentials,Disinfectant spray,1,₱150.00,₱150.00
+
+2025-12-16,Fruits,Blackberries (500 g),1,₱290.00,₱290.00
+2025-12-16,Meat & Poultry,Chicken thighs (1 kg),2,₱300.00,₱600.00
+2025-12-16,Vegetables,Zucchini (1 kg),1,₱150.00,₱150.00
+2025-12-16,Dairy & Eggs,Cottage cheese,1,₱140.00,₱140.00
+2025-12-16,Pantry & Condiments,Soy milk,2,₱80.00,₱160.00
+2025-12-16,Snacks & Beverages,Granola bars,3,₱55.00,₱165.00
+2025-12-16,Rice, Grains & Bread,Pita bread,1,₱90.00,₱90.00
+2025-12-16,Seafood,Mussels (1 kg),1,₱320.00,₱320.00
+2025-12-16,Household Essentials,Bath soap,2,₱60.00,₱120.00
+
+2025-12-17,Fruits,Mangoes (1 kg),1,₱200.00,₱200.00
+2025-12-17,Meat & Poultry,Pork tenderloin (1 kg),1,₱480.00,₱480.00
+2025-12-17,Vegetables,Green peas (1 kg),2,₱140.00,₱280.00
+2025-12-17,Dairy & Eggs,Milk (1 L),3,₱95.00,₱285.00
+2025-12-17,Pantry & Condiments,Coffee,1,₱120.00,₱120.00
+2025-12-17,Snacks & Beverages,Potato chips,2,₱65.00,₱130.00
+2025-12-17,Rice, Grains & Bread,White rice (1 kg),2,₱55.00,₱110.00
+2025-12-17,Seafood,Clams (1 kg),1,₱400.00,₱400.00
+2025-12-17,Household Essentials,Floor cleaner,1,₱140.00,₱140.00
+
+2025-12-18,Frozen & Ready-to-Eat,Frozen Dumplings (500 g),2,₱250.00,₱500.00
+2025-12-18,Fruits,Apples (1 kg),2,₱220.00,₱440.00
+2025-12-18,Meat & Poultry,Ground beef (1 kg),1,₱480.00,₱480.00
+2025-12-18,Vegetables,Spinach (1 kg),1,₱130.00,₱130.00
+2025-12-18,Dairy & Eggs,Cream cheese,1,₱150.00,₱150.00
+2025-12-18,Pantry & Condiments,Maple syrup,1,₱400.00,₱400.00
+2025-12-18,Snacks & Beverages,Chocolate bar,3,₱55.00,₱165.00
+2025-12-18,Rice, Grains & Bread,Oats (500 g),1,₱120.00,₱120.00
+2025-12-18,Household Essentials,Toilet paper,1,₱140.00,₱140.00
+2025-12-18,Vegetables,Onions (1 kg),1,₱160.00,₱160.00
+
+2025-12-19,Fruits,Oranges (1 kg),1,₱180.00,₱180.00
+2025-12-19,Meat & Poultry,Chicken thighs (1 kg),1,₱310.00,₱310.00
+2025-12-19,Vegetables,Cabbage (1 kg),2,₱85.00,₱170.00
+2025-12-19,Dairy & Eggs,Milk (1 L),2,₱95.00,₱190.00
+2025-12-19,Pantry & Condiments,Soy sauce,1,₱45.00,₱45.00
+2025-12-19,Snacks & Beverages,Trail mix,1,₱200.00,₱200.00
+2025-12-19,Rice, Grains & Bread,Flour (1 kg),1,₱55.00,₱55.00
+2025-12-19,Seafood,Tilapia (1 kg),1,₱220.00,₱220.00
+2025-12-19,Household Essentials,Laundry detergent,1,₱180.00,₱180.00
+2025-12-19,Vegetables,Bell pepper (1 kg),1,₱180.00,₱180.00
+
+
+2025-12-20,Fruits,Mangoes (1 kg),1,₱200.00,₱200.00
+2025-12-20,Meat & Poultry,Pork belly (1 kg),1,₱420.00,₱420.00
+2025-12-20,Vegetables,Green beans (1 kg),2,₱150.00,₱300.00
+2025-12-20,Dairy & Eggs,Butter (500 g),1,₱160.00,₱160.00
+2025-12-20,Pantry & Condiments,Peanut butter,1,₱180.00,₱180.00
+2025-12-20,Snacks & Beverages,Ice cream (1 L),1,₱220.00,₱220.00
+2025-12-20,Rice, Grains & Bread,Pandesal (10 pcs),2,₱40.00,₱80.00
+2025-12-20,Seafood,Shrimp (1 kg),1,₱520.00,₱520.00
+2025-12-20,Household Essentials,Trash bags,2,₱85.00,₱170.00
+2025-12-20,Vegetables,Lettuce (1 head),1,₱100.00,₱100.00
+
+2025-12-21,Fruits,Papaya (1 kg),1,₱90.00,₱90.00
+2025-12-21,Meat & Poultry,Chicken whole (1 kg),1,₱210.00,₱210.00
+2025-12-21,Vegetables,Potatoes (1 kg),3,₱90.00,₱270.00
+2025-12-21,Dairy & Eggs,Yogurt,2,₱120.00,₱240.00
+2025-12-21,Pantry & Condiments,Tomato ketchup,1,₱85.00,₱85.00
+2025-12-21,Snacks & Beverages,Biscuits,3,₱45.00,₱135.00
+2025-12-21,Frozen & Ready-to-Eat,Frozen Chicken Nuggets (1 kg),1,₱400.00,₱400.00
+2025-12-21,Rice, Grains & Bread,Bread loaf,1,₱65.00,₱65.00
+2025-12-21,Seafood,Dried fish (tuyo),1,₱180.00,₱180.00
+2025-12-21,Household Essentials,Shampoo,1,₱170.00,₱170.00
+
+2025-12-22,Fruits,Lemons (1 kg),1,₱140.00,₱140.00
+2025-12-22,Vegetables,Carrots (1 kg),1,₱110.00,₱110.00
+2025-12-22,Dairy & Eggs,Eggs (12 pcs),2,₱120.00,₱240.00
+2025-12-22,Pantry & Condiments,Cooking oil (1 L),1,₱165.00,₱165.00
+2025-12-22,Snacks & Beverages,Chocolate bar,2,₱55.00,₱110.00
+2025-12-22,Rice, Grains & Bread,Rice (1 kg),3,₱55.00,₱165.00
+2025-12-22,Seafood,Squid (1 kg),1,₱480.00,₱480.00
+2025-12-22,Vegetables,Onions (1 kg),1,₱160.00,₱160.00
+
+2025-12-23,Fruits,Oranges (1 kg),2,₱180.00,₱360.00
+2025-12-23,Meat & Poultry,Pork ribs (1 kg),1,₱420.00,₱420.00
+2025-12-23,Vegetables,Bell pepper (1 kg),1,₱180.00,₱180.00
+2025-12-23,Dairy & Eggs,Cheese slices,1,₱110.00,₱110.00
+2025-12-23,Pantry & Condiments,Soy sauce,1,₱45.00,₱45.00
+2025-12-23,Snacks & Beverages,Chips,2,₱65.00,₱130.00
+2025-12-23,Rice, Grains & Bread,Oats (500 g),1,₱120.00,₱120.00
+2025-12-23,Seafood,Tilapia (1 kg),1,₱220.00,₱220.00
+2025-12-23,Household Essentials,Laundry detergent,1,₱180.00,₱180.00
+2025-12-23,Vegetables,Eggplant (1 kg),1,₱90.00,₱90.00
+
+2025-12-24,Fruits,Mangoes (1 kg),2,₱200.00,₱400.00
+2025-12-24,Meat & Poultry,Ground pork (1 kg),1,₱350.00,₱350.00
+2025-12-24,Vegetables,Spinach (1 kg),2,₱130.00,₱260.00
+2025-12-24,Rice, Grains & Bread,Pandesal (10 pcs),3,₱40.00,₱120.00
+2025-12-24,Seafood,Shrimp (1 kg),1,₱520.00,₱520.00
+2025-12-24,Frozen & Ready-to-Eat,Frozen French Fries (1 kg),1,₱180.00,₱180.00
+2025-12-24,Household Essentials,Toilet paper,2,₱140.00,₱280.00
+
+2025-12-25,Fruits,Apples (1 kg),1,₱220.00,₱220.00
+2025-12-25,Meat & Poultry,Chicken wings (1 kg),2,₱320.00,₱640.00
+2025-12-25,Vegetables,Cabbage (1 kg),1,₱85.00,₱85.00
+2025-12-25,Dairy & Eggs,Eggs (12 pcs),3,₱120.00,₱360.00
+2025-12-25,Pantry & Condiments,Peanut butter,1,₱180.00,₱180.00
+2025-12-25,Snacks & Beverages,Ice cream (1 L),1,₱220.00,₱220.00
+2025-12-25,Rice, Grains & Bread,Bread loaf,2,₱65.00,₱130.00
+2025-12-25,Seafood,Canned tuna,3,₱45.00,₱135.00
+2025-12-25,Household Essentials,Trash bags,2,₱85.00,₱170.00
+
+2025-12-26,Fruits,Watermelon (1 whole),1,₱160.00,₱160.00
+2025-12-26,Meat & Poultry,Pork chop (1 kg),1,₱380.00,₱380.00
+2025-12-26,Vegetables,Potatoes (1 kg),3,₱90.00,₱270.00
+2025-12-26,Dairy & Eggs,Butter (500 g),1,₱160.00,₱160.00
+2025-12-26,Pantry & Condiments,Tomato ketchup,1,₱85.00,₱85.00
+2025-12-26,Snacks & Beverages,Chips,2,₱65.00,₱130.00
+2025-12-26,Rice, Grains & Bread,White bread loaf,1,₱65.00,₱65.00
+2025-12-26,Seafood,Calamari (1 kg),1,₱450.00,₱450.00
+2025-12-26,Household Essentials,Shampoo,1,₱170.00,₱170.00
+2025-12-26,Vegetables,Lettuce (1 head),1,₱100.00,₱100.00
+
+2025-12-27,Fruits,Pineapple (1 whole),1,₱130.00,₱130.00
+2025-12-27,Meat & Poultry,Turkey breast (1 kg),1,₱700.00,₱700.00
+2025-12-27,Vegetables,Zucchini (1 kg),2,₱150.00,₱300.00
+2025-12-27,Dairy & Eggs,Greek yogurt,2,₱140.00,₱280.00
+2025-12-27,Frozen & Ready-to-Eat,Ready-to-Eat Lasagna (500 g),1,₱320.00,₱320.00
+2025-12-27,Pantry & Condiments,Maple syrup,1,₱400.00,₱400.00
+2025-12-27,Snacks & Beverages,Protein bars,3,₱85.00,₱255.00
+2025-12-27,Rice, Grains & Bread,Rye bread,1,₱95.00,₱95.00
+2025-12-27,Seafood,Salmon (1 kg),1,₱750.00,₱750.00
+2025-12-27,Household Essentials,Disinfectant wipes,1,₱150.00,₱150.00
+
+2025-12-28,Fruits,Kiwifruit (1 kg),2,₱210.00,₱420.00
+2025-12-28,Meat & Poultry,Lamb chops (1 kg),1,₱850.00,₱850.00
+2025-12-28,Vegetables,Cucumber (1 kg),2,₱110.00,₱220.00
+2025-12-28,Dairy & Eggs,Sour cream,1,₱140.00,₱140.00
+2025-12-28,Pantry & Condiments,Honey,1,₱220.00,₱220.00
+2025-12-28,Snacks & Beverages,Nuts (200 g),1,₱350.00,₱350.00
+2025-12-28,Rice, Grains & Bread,Cornbread,1,₱75.00,₱75.00
+
+2025-12-30,Fruits,Cherries (500 g),1,₱270.00,₱270.00
+2025-12-30,Meat & Poultry,Chicken wings (1 kg),2,₱320.00,₱640.00
+2025-12-30,Vegetables,Brussels sprouts (1 kg),1,₱160.00,₱160.00
+2025-12-30,Dairy & Eggs,Milk (1 L),3,₱95.00,₱285.00
+2025-12-30,Pantry & Condiments,Pesto sauce,1,₱200.00,₱200.00
+2025-12-30,Snacks & Beverages,Yogurt drink,2,₱65.00,₱130.00
+2025-12-30,Frozen & Ready-to-Eat,Frozen Mixed Vegetables (1 kg),1,₱150.00,₱150.00
+2025-12-30,Rice, Grains & Bread,White bread loaf,1,₱65.00,₱65.00
+2025-12-30,Seafood,Clams (1 kg),1,₱400.00,₱400.00
+2025-12-30,Household Essentials,Glass cleaner,1,₱120.00,₱120.00
+
+2025-12-31,Fruits,Blueberries (500 g),1,₱260.00,₱260.00
+2025-12-31,Meat & Poultry,Pork ribs (1 kg),1,₱420.00,₱420.00
+2025-12-31,Vegetables,Cauliflower (1 kg),1,₱140.00,₱140.00
+2025-12-31,Dairy & Eggs,Butter (500 g),1,₱160.00,₱160.00
+2025-12-31,Pantry & Condiments,Peanut butter,1,₱180.00,₱180.00
+2025-12-31,Snacks & Beverages,Trail mix,1,₱200.00,₱200.00
+2025-12-31,Rice, Grains & Bread,Corn tortillas,1,₱85.00,₱85.00
+2025-12-31,Seafood,Calamari (1 kg),1,₱450.00,₱450.00
+2025-12-31,Household Essentials,Laundry softener,1,₱130.00,₱130.00
+2025-12-31,Vegetables,Asparagus (500 g),1,₱200.00,₱200.00
+2025-12-31,Frozen & Ready-to-Eat,Frozen Pizza,1,₱350.00,₱350.00
